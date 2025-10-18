@@ -10,3 +10,6 @@ Each item on this list should have a related document that details what was done
 
 ### Initial Project Scaffolding [details](./details/project-scaffolding.md)
 Created base Nuxt Project, setup .opencode `/init`, added basic agent/subagent flow, and started a project timeline.
+
+### SpecKit System Integration and Project Constitution [details](./details/speckit-system-integration.md)
+Integrated the SpecKit workflow system with eight commands, five bash automation scripts, five document templates, and ratified the project constitution v1.0.0 establishing governance and development standards.
